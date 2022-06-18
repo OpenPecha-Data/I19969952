@@ -1,0 +1,103 @@
+id: 997d7a70b17b45ed80c36fcc564c2f34
+annotation_type: Pagination
+revision: '00001'
+annotations:
+  4a80c453a99f493cba6e9af2f2b143e7:
+    span:
+      start: 0
+      end: 872
+    metadata:
+      page_num: '53'
+    page_info: null
+    imgnum: 53
+    reference: null
+  ee29bedd824a46e9aeb477d318c54082:
+    span:
+      start: 874
+      end: 2140
+    metadata:
+      page_num: '54'
+    page_info: null
+    imgnum: 54
+    reference: null
+  a947f54dff5a42899d552cd84791e463:
+    span:
+      start: 2142
+      end: 3411
+    metadata:
+      page_num: '55'
+    page_info: null
+    imgnum: 55
+    reference: null
+  e7ab3f7103df41e9ae02e9319b5332c3:
+    span:
+      start: 3413
+      end: 4705
+    metadata:
+      page_num: '56'
+    page_info: null
+    imgnum: 56
+    reference: null
+  c805fda91409464e9be739ef38e63337:
+    span:
+      start: 4707
+      end: 5966
+    metadata:
+      page_num: '57'
+    page_info: null
+    imgnum: 57
+    reference: null
+  1482ddc7296348a294453c836218d3f7:
+    span:
+      start: 5968
+      end: 7221
+    metadata:
+      page_num: '58'
+    page_info: null
+    imgnum: 58
+    reference: null
+  e8e5a06996c74c788511bbb7d6a1084c:
+    span:
+      start: 7223
+      end: 8486
+    metadata:
+      page_num: '59'
+    page_info: null
+    imgnum: 59
+    reference: null
+  156edfbde1024db2bc338ce2e3cc2acc:
+    span:
+      start: 8488
+      end: 9750
+    metadata:
+      page_num: '60'
+    page_info: null
+    imgnum: 60
+    reference: null
+  832623baa01c41c3b035fcf2daf5977d:
+    span:
+      start: 9752
+      end: 11016
+    metadata:
+      page_num: '61'
+    page_info: null
+    imgnum: 61
+    reference: null
+  a71044b6a5f045afa759ffc5c6cb1611:
+    span:
+      start: 11018
+      end: 12294
+    metadata:
+      page_num: '62'
+    page_info: null
+    imgnum: 62
+    reference: null
+  23db1f7dea63419a8e4e3ce3843cea4b:
+    span:
+      start: 12296
+      end: 12324
+    metadata:
+      page_num: '63'
+    page_info: null
+    imgnum: 63
+    reference: null
